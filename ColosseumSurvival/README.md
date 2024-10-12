@@ -3,4 +3,4 @@
 
 Colosseum Survival AI Game Agent using MCTS for the COMP424 project (Fall 2023).
 
-![Gameboard](Colosseum-Survival-main/Gameboard.png =x100)
+![Gameboard](Colosseum-Survival-main/Gameboard.png)
