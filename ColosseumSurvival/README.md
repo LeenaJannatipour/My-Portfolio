@@ -1,8 +1,7 @@
 # AI Game Agent Colosseum Survival using Monte Carlo Simulations
 Colosseum Survival AI Game Agent using MCTS for the COMP424 project (Fall 2023).
-
 ![Gameboard](Colosseum-Survival-main/Gameboard.png)
-<img src="https://github.com/LeenaJannatipour/My-Portfolio/blob/da63039a0975c7e60cbc1017fec3d9795da95b7a/ColosseumSurvival/Colosseum-Survival-main/Gameboard.png)" width="48">
+<img src="https://github.com/LeenaJannatipour/My-Portfolio/blob/da63039a0975c7e60cbc1017fec3d9795da95b7a/ColosseumSurvival/Colosseum-Survival-main/Gameboard.png" width="48">
 
 ## The Game
 
