@@ -1,8 +1,6 @@
-# Portfolio of Leena Jannatipour - Artificial Intelligence & Data Science Projects
-#### Machine Learning and Computer Science at UC San Diego
-##### ljannati@ucsd.edu
-##### www.linkedin/in/leenajannatipour
-Data Science professional with over 2 years of experience in Data Analysis, NLP, and A
+# Machine Learning & Data Science Portfolio
+Repository of all past and current projects I am working on. (Last Updated: 07/01/2025)
+
 ## Projects:
 
 ### Game Playing AI Agent - Colosseum Survival
